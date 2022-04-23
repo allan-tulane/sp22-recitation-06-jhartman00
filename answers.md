@@ -57,4 +57,5 @@ Random Lists:
 | 800 |         6.913185120 |          9.346008301 |      0.151634216 |
 | 900 |         8.872509003 |          9.717941284 |      0.171661377 |
 | 990 |         9.131908417 |         11.752367020 |      0.192165375 |
+
 Timsort was much quicker than either oither algoritm by a large margin
